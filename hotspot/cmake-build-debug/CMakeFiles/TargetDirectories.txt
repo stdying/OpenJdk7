@@ -1,3 +1,0 @@
-/esntmp/Source/openjdk-7u75-src-b13-18/hotspot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/esntmp/Source/openjdk-7u75-src-b13-18/hotspot/cmake-build-debug/CMakeFiles/hotspot.dir
-/esntmp/Source/openjdk-7u75-src-b13-18/hotspot/cmake-build-debug/CMakeFiles/edit_cache.dir
